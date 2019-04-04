@@ -1,0 +1,2 @@
+# site1
+É um site feito na escola, com o foco no trabalho em grupo, eu fiquei com a parte do front-end, utilizei do materialize para fazer o site, as funções de cadastro e login funcionam, desde que o banco de dados esteja na maquina,  tem uma parte de temas que é atualizada sozinha e que já define o caminho para a pagina, nas pagina, se a pessoa está logada, ela pode comentar e dar like, se não ela só pode observar.
